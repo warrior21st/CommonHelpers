@@ -1,0 +1,9 @@
+D:\git\CommonHelpers\CommonHelpers\bin\Debug\netcoreapp2.0\CommonHelpers.deps.json
+D:\git\CommonHelpers\CommonHelpers\bin\Debug\netcoreapp2.0\CommonHelpers.dll
+D:\git\CommonHelpers\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.csproj.CoreCompileInputs.cache
+D:\git\CommonHelpers\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.AssemblyInfoInputs.cache
+D:\git\CommonHelpers\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.AssemblyInfo.cs
+D:\git\CommonHelpers\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.csprojResolveAssemblyReference.cache
+D:\git\CommonHelpers\CommonHelpers\bin\Debug\netcoreapp2.0\CommonHelpers.pdb
+D:\git\CommonHelpers\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.dll
+D:\git\CommonHelpers\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.pdb
