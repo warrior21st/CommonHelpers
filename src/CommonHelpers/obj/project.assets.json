@@ -1066,11 +1066,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\git\\CommonHelpers\\CommonHelpers\\CommonHelpers.csproj",
+      "projectUniqueName": "D:\\git_Personal\\CommonHelpers\\src\\CommonHelpers\\CommonHelpers.csproj",
       "projectName": "CommonHelpers",
-      "projectPath": "D:\\git\\CommonHelpers\\CommonHelpers\\CommonHelpers.csproj",
+      "projectPath": "D:\\git_Personal\\CommonHelpers\\src\\CommonHelpers\\CommonHelpers.csproj",
       "packagesPath": "C:\\Users\\FeiWa\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\CommonHelpers\\CommonHelpers\\obj\\",
+      "outputPath": "D:\\git_Personal\\CommonHelpers\\src\\CommonHelpers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

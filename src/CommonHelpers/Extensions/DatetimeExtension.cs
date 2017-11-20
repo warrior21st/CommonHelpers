@@ -94,7 +94,7 @@ namespace System
         public static string TimeAgo(this DateTime dt, bool isUtc = true)
         {
             var now = isUtc ? DateTime.UtcNow : DateTime.Now;
-            TimeSpan span = DateTime.UtcNow - dt;
+            TimeSpan span = now - dt;
             if (span.Days > 365)
             {
                 int years = (span.Days / 365);
