@@ -16,3 +16,12 @@ D:\git_Personal\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHe
 D:\git_Personal\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.AssemblyInfo.cs
 D:\git_Personal\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.dll
 D:\git_Personal\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.pdb
+D:\github-code\CommonHelpers\src\CommonHelpers\bin\Debug\netcoreapp2.0\CommonHelpers.deps.json
+D:\github-code\CommonHelpers\src\CommonHelpers\bin\Debug\netcoreapp2.0\CommonHelpers.dll
+D:\github-code\CommonHelpers\src\CommonHelpers\bin\Debug\netcoreapp2.0\CommonHelpers.pdb
+D:\github-code\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.csprojAssemblyReference.cache
+D:\github-code\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.csproj.CoreCompileInputs.cache
+D:\github-code\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.AssemblyInfoInputs.cache
+D:\github-code\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.AssemblyInfo.cs
+D:\github-code\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.dll
+D:\github-code\CommonHelpers\src\CommonHelpers\obj\Debug\netcoreapp2.0\CommonHelpers.pdb

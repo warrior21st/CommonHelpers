@@ -1057,26 +1057,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FeiWa\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\PC3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "D:\\git_Personal\\CommonHelpers\\src\\CommonHelpers\\CommonHelpers.csproj",
+      "projectUniqueName": "D:\\github-code\\CommonHelpers\\src\\CommonHelpers\\CommonHelpers.csproj",
       "projectName": "CommonHelpers",
-      "projectPath": "D:\\git_Personal\\CommonHelpers\\src\\CommonHelpers\\CommonHelpers.csproj",
-      "packagesPath": "C:\\Users\\FeiWa\\.nuget\\packages\\",
-      "outputPath": "D:\\git_Personal\\CommonHelpers\\src\\CommonHelpers\\obj\\",
+      "projectPath": "D:\\github-code\\CommonHelpers\\src\\CommonHelpers\\CommonHelpers.csproj",
+      "packagesPath": "C:\\Users\\PC3\\.nuget\\packages\\",
+      "outputPath": "D:\\github-code\\CommonHelpers\\src\\CommonHelpers\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\FeiWa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1084,7 +1077,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://192.168.0.118:611/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1103,28 +1095,34 @@
         "dependencies": {
           "Microsoft.AspNetCore.Http": {
             "target": "Package",
-            "version": "2.0.1"
+            "version": "[2.0.1, )"
+          },
+          "Microsoft.Extensions.Caching.Memory": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.Extensions.Logging": {
+            "target": "Package",
+            "version": "[2.0.0, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
-          },
-          "Microsoft.Extensions.Caching.Memory": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
-          "Microsoft.Extensions.Logging": {
-            "target": "Package",
-            "version": "2.0.0"
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
